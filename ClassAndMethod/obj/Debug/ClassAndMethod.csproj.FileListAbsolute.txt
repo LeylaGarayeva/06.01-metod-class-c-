@@ -1,0 +1,7 @@
+C:\Users\P502\Desktop\task\ClassAndMethod\ClassAndMethod\bin\Debug\ClassAndMethod.exe.config
+C:\Users\P502\Desktop\task\ClassAndMethod\ClassAndMethod\bin\Debug\ClassAndMethod.exe
+C:\Users\P502\Desktop\task\ClassAndMethod\ClassAndMethod\bin\Debug\ClassAndMethod.pdb
+C:\Users\P502\Desktop\task\ClassAndMethod\ClassAndMethod\obj\Debug\ClassAndMethod.csprojResolveAssemblyReference.cache
+C:\Users\P502\Desktop\task\ClassAndMethod\ClassAndMethod\obj\Debug\ClassAndMethod.csproj.CoreCompileInputs.cache
+C:\Users\P502\Desktop\task\ClassAndMethod\ClassAndMethod\obj\Debug\ClassAndMethod.exe
+C:\Users\P502\Desktop\task\ClassAndMethod\ClassAndMethod\obj\Debug\ClassAndMethod.pdb
